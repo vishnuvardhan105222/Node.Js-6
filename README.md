@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Covid-19 India
 
 Given two files `app.js` and a database file `covid19India.db` consisting of two tables `state` and `district`.
@@ -377,3 +378,7 @@ Use `npm install` to install the packages.
 Node.js Coding Practice 5 [MOVIES]
 >>>>>>> ad78d021bd1509fabcfc9c5845456167e8a5ecd0
 >>>>>>> d4993d65fabec7e84ed8e0c43e0e8ebd1f9dc36e
+=======
+# Node.Js-6
+Node.js Coding Practice 5 [COVID-19 india].
+>>>>>>> 57e519bd87a5f953c4e75ff91d4d2717207d566b
