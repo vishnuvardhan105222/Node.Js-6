@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "name": "covid19-india-database",
+=======
+    "name": "movies-database",
+>>>>>>> d4993d65fabec7e84ed8e0c43e0e8ebd1f9dc36e
     "version": "1.0.0",
     "description": "",
     "main": "app.js",
@@ -10,9 +14,12 @@
         "nodemon": "2.0.7",
         "sqlite": "4.0.19",
         "sqlite3": "5.0.2"
+<<<<<<< HEAD
     },
     "devDependencies": {
         "jest": "^29.7.0",
         "supertest": "^7.0.0"
+=======
+>>>>>>> d4993d65fabec7e84ed8e0c43e0e8ebd1f9dc36e
     }
 }
