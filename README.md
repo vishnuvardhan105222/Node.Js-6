@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movies
 
 Given two files `app.js` and a database file `moviesData.db` consisting of two tables `movie` and `director`.
@@ -184,3 +185,7 @@ Use `npm install` to install the packages.
 **Export the express instance using the default export syntax.**
 
 **Use Common JS module syntax.**
+=======
+# Node.js-5
+Node.js Coding Practice 5 [MOVIES]
+>>>>>>> ad78d021bd1509fabcfc9c5845456167e8a5ecd0
